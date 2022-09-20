@@ -1,0 +1,14 @@
+{
+  "name": "javascript-snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rustyraz/javascript-snippets.git",
+  "author": "Peter Ngerere <peter.ngerere@medikura.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/lodash.clonedeep": "^4.5.7"
+  }
+}
